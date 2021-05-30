@@ -1,5 +1,3 @@
-// sensor pin
-int sensorPin = A0;
 // buzzer pin
 int buzzer = 12;
 // var for sensor value
